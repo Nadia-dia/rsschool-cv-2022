@@ -17,11 +17,21 @@
 
 ### I'am 23 years old and I currently work at corporate lets in Krakow. Although I'm very enthusiastic person who is always starving for new knowledge. It was my dream to build a career in IT from school. Now it became the goal - to learn Front-end Development. I hope RS School will help to fulfil my potential.
 
+## **Hard skills:**
+
+* HTML
+* CSS
+* JavaScript (Fundamentals)
+* C++ (Basic knowledge)
+* Version Control: Git (remote service GitHub)
+* Editors: Sublime Text, VS code.
+
+
 ## **Soft skills:**
 
 * Good at problem solving
 * Communication skills
-* Experience in planning and organizing
+* Strong analytical skills
 * Confidence and leadership
 * Adaptability
 

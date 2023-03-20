@@ -1,6 +1,5 @@
 # **Nadzeya Kaliada**
 
-
 ## **Contact information:**
 
 *Address:* al. 29 Listopada 48A, 31-425 Kraków, Poland
@@ -13,9 +12,13 @@
 
 *Github:* [@Nadia-dia](https://github.com/Nadia-dia)
 
+*********
+
 ## **About myself:**
 
 ### I'am 23 years old and I currently work at corporate lets in Krakow. Although I'm very enthusiastic person who is always starving for new knowledge. It was my dream to build a career in IT from school. Now it became the goal - to learn Front-end Development. I hope RS School will help to fulfil my potential.
+
+**********
 
 ## **Hard skills:**
 
@@ -26,6 +29,7 @@
 * Version Control: Git (remote service GitHub)
 * Editors: Sublime Text, VS code.
 
+**********
 
 ## **Soft skills:**
 
@@ -35,6 +39,7 @@
 * Confidence and leadership
 * Adaptability
 
+**********
 
 ## **Code Example:**
 
@@ -52,26 +57,34 @@ const sumDigits = (num) => {
 }
 ```
 
-## **Work experience:**
+## **Projects:**
 
+- [Mini-game "If the number is even?"](https://codepen.io/Nadiadia/pen/bGMQbzJ)
+- [Calculator](https://codepen.io/Nadiadia/pen/MWGZpMq)
+
+**********
 
 ## **Education & courses:**
 
-
-#### * *Krakow University of Economics:*
+#### 
+* *Krakow University of Economics:*
   - Bachelor's degree in International Tourism 2019/2022  
 
-#### * *CodeBasics.ru:* 
+#### 
+* *CodeBasics.ru:* 
   - [JavaScript for beginners 2022](https://code-basics.com/ru/languages/javascript)
   - [CSS for beginners 2022](https://code-basics.com/ru/languages/css) 
 
-#### * *Hexlet.io:* 
-  - [Precourse Frontend Developer](https://pre.hexlet.io/frontend/?utm_source=hexlet&utm_medium=referral&utm_campaign=base-frontend&utm_term=from_section_pre&roistat_visit=7719883&_gl=1*sssnug*_ga*ODI5NjA1NDMuMTY3OTMzOTQ3NA..*_ga_PM3R85EKHN*MTY3OTMzOTQ3My4xLjEuMTY3OTMzOTY0Ny40Ny4wLjA.#after)
+#### 
+* *Hexlet.io:* 
+  - [Pre-course Frontend Developer](https://pre.hexlet.io/frontend/?utm_source=hexlet&utm_medium=referral&utm_campaign=base-frontend&utm_term=from_section_pre&roistat_visit=7719883&_gl=1*sssnug*_ga*ODI5NjA1NDMuMTY3OTMzOTQ3NA..*_ga_PM3R85EKHN*MTY3OTMzOTQ3My4xLjEuMTY3OTMzOTY0Ny40Ny4wLjA.#after)
   - [Introduction to programming](https://ru.hexlet.io/courses/introduction_to_programming)
+
+**********
 
 ## **Languages:**
 
-* English - Upper Intermidiate
+* English - Upper Intermediate
 * Russian - Native
 * Belarusian - Native
-* Polish - Upper Intermidiate
+* Polish - Upper Intermediate
